@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:molnartimi/SubrepoDojoSubrepo.git
 	branch = case1_1-correct-workflow
-	commit = 055793dfd442c141ab74abbe35516a8a7b138cf8
-	parent = 53f17c4f8d77902308004de6661daf3b334445a1
+	commit = cc6f4227d926da689af5f1b8d5e06b0c79e2cac6
+	parent = 57726dd53ce38d2328505707a41c08eede5b83df
 	method = merge
 	cmdver = 0.4.1
