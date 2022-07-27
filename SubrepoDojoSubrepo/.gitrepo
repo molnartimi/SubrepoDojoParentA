@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:molnartimi/SubrepoDojoSubrepo.git
 	branch = case1_2-missing-pull-before-first-push
-	commit = 055793dfd442c141ab74abbe35516a8a7b138cf8
-	parent = 53f17c4f8d77902308004de6661daf3b334445a1
+	commit = e2d889d8f910fcb6f445803cb50dff7c35eb65c9
+	parent = 2cf87f79653c400dd432e87d7d09510b0a18e237
 	method = merge
 	cmdver = 0.4.1
