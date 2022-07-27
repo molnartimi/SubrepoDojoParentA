@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:molnartimi/SubrepoDojoSubrepo.git
+	branch = main
+	commit = 055793dfd442c141ab74abbe35516a8a7b138cf8
+	parent = 53f17c4f8d77902308004de6661daf3b334445a1
+	method = merge
+	cmdver = 0.4.1
