@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:molnartimi/SubrepoDojoSubrepo.git
 	branch = case1_2-create-first-branch-after-clone
-	commit = e2d889d8f910fcb6f445803cb50dff7c35eb65c9
-	parent = 2cf87f79653c400dd432e87d7d09510b0a18e237
+	commit = 22eb0ca3768bc45d49a31d9f21a4fa28fc833ba1
+	parent = a42f2c42b656f7be2f9d25bf58041f9423c03ce9
 	method = merge
 	cmdver = 0.4.1
